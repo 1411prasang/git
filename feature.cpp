@@ -18,8 +18,8 @@ float cosx(int x){
     return cos(x);
 }
 
-int add3(int x,int y,int z){
-    return x+y+z;
+int add3(int x,int y,int k){
+    return x+y+k;
 }
 int main()
 {
