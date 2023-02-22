@@ -6,8 +6,8 @@
 using namespace std;
 //Starting new Project
 
-int tanx(int x){
-    return tan(x);
+int tanx(int y){
+    return tan(y);
 }
 
 <<<<<<< HEAD
