@@ -18,8 +18,8 @@ float cosx(int x){
     return cos(x);
 }
 
-int add2(int x,int y){
-    return x+y;
+int add3(int x,int y,int z){
+    return x+y+z;
 }
 int main()
 {
@@ -27,7 +27,7 @@ int main()
     cout<<sinX(4);
     cout<<multiply2(4,5);
     cout<<cosx(4);
-    cout<<add2(3,5);
+    cout<<add3(3,5,6);
     return 0;
 
 
