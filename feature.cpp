@@ -15,6 +15,7 @@ int multiply2(int a,int b){
     return a*b;
 }
 
+<<<<<<< HEAD
 int main()
 {
     int a,b;
@@ -23,13 +24,25 @@ int main()
 =======
 int add2(int x,int y){
     return x+y;
+=======
+float cosx(int x){
+    return cos(x);
+}
+
+int add3(int x,int y,int z){
+    return x+y+z;
+>>>>>>> c51907d (Changed add2 to add3)
 }
 int main()
 {
     int a,b;
 
     cout<<cosx(4);
+<<<<<<< HEAD
     cout<<add2(3,5);
 >>>>>>> 99511e2 (Added addition of 2 nums)
+=======
+    cout<<add3(3,5,6);
+>>>>>>> c51907d (Changed add2 to add3)
     return 0;
 }
