@@ -29,9 +29,14 @@ float cosx(int x){
     return cos(x);
 }
 
+<<<<<<< HEAD
 int add3(int x,int y,int z){
     return x+y+z;
 >>>>>>> c51907d (Changed add2 to add3)
+=======
+int add3(int x,int y,int k){
+    return x+y+k;
+>>>>>>> 7f6f411 (Resolved add3)
 }
 int main()
 {
