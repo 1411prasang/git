@@ -6,8 +6,8 @@
 //Starting new Project
 using namespace std;
 
-int tanx(int x){
-    return tan(x);
+int tanx(int y){
+    return tan(y);
 }
 
 int multiply2(int a,int b){
