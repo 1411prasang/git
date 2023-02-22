@@ -4,3 +4,8 @@
 #include<algorithm>
 
 //Starting new Project
+
+int main()
+{
+    return 0;
+}
