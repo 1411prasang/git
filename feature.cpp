@@ -6,8 +6,8 @@
 //Starting new Project
 using namespace std;
 
-int sinX(int x){
-    return sin(x);
+int tanx(int x){
+    return tan(x);
 }
 
 int multiply2(int a,int b){
@@ -24,7 +24,7 @@ int add3(int x,int y,int z){
 int main()
 {
     int a,b;
-    cout<<sinX(4);
+    cout<<tanX(1);
     cout<<multiply2(4,5);
     cout<<cosx(4);
     cout<<add3(3,5,6);
